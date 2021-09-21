@@ -1,5 +1,6 @@
 package api.rest.machinne.usuarios.models.dao;
 
+
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 
 import api.rest.machinne.usuarios.models.documents.Usuario;
